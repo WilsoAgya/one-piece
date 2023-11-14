@@ -1,2 +1,2 @@
 # one-piece
-First ever tech related side project.
+First ever tech-related side project.
